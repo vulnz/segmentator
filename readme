@@ -1,16 +1,17 @@
+> python3 segmentator.py
+Input your choice: 0    # extract+combine
+Input your choice: 1    # remove duplicates
+Input your choice: 3    # fping -> pingedips.txt
+Input your choice: 4    # masscan using ips_from_domains.txt
+Input your choice: 5    # convert masscan -> csv
+Input your choice: 7    # run nmap from scans.txt
+Input your choice: 9    # generate HTML report
+
+
 Requirements:
-Parrot security os
+Parrot or Kali security os with preinstalled toools:
+fping, nmap, nuclei, masscan.
 
-
-Python2 under python2 path
-Python3 unser python3 path
-
-requirements
-ZipFile
-urllib
-Socket
-iptools
-
-
-
-brew install coreutil
+Running:
+pip install -r requirements
+python segmentator.py
