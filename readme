@@ -1,0 +1,16 @@
+Requirements:
+Parrot security os
+
+
+Python2 under python2 path
+Python3 unser python3 path
+
+requirements
+ZipFile
+urllib
+Socket
+iptools
+
+
+
+brew install coreutil

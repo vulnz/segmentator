@@ -1,0 +1,5 @@
+127.0.0.1
+testphp.vulnweb.com
+10.20.30.40
+nonexistent3333311.com
+scanme.org
