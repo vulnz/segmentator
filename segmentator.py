@@ -33,8 +33,6 @@ print('10. Get shodan results)')
 print ("----------------------------")
 print ("Single scan mode. Set target")
 print ('19. Scan single url')
-print ('20. Scan single api key')
-print ('21. Scan single email')
 print ("----------------------------")
 
 
